@@ -1,6 +1,6 @@
-# ASTRA
+# ASTRA: Autonomous Skill Training & Reflection Agent
 
-ASTRA is starting fresh.
+ASTRA (Autonomous Skill Training & Reflection Agent) is starting fresh.
 
 This repository has been reset and the previous codebase has been removed. New project files, architecture, and documentation will be added as the project takes shape.
 
